@@ -1,4 +1,3 @@
-
 other.login("")
 const Discord = require('discord.js');
 const other = new Discord.Client();
